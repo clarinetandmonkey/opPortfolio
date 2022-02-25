@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "opportfolio",
-  "homepage": "http://hrishi.tech/",
+  "homepage": "https://clarinetandmonkey.github.io/opPortfolio/",
   "version": "1.2.0",
   "scripts": {
     "build": "react-scripts build",
