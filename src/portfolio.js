@@ -10,37 +10,37 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  title2: "Sen",
+  logo_name: "SentheDev",
+  nickname: "Sen#9247 / Xesteral",
+  full_name: "SentheDev",
   subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
+    "Full Roblox Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1IQge4pNhyj-RD2OOnEMrRPMODDUWeVDy/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+    "https://example.com",
+  mail: "mailto:davidstuff22@outlook.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://example.com",
+  linkedin: "https://example.com",
+  gmail: "daviddorval760@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: "https://example.com",
+  instagram: "https://example.com",
 };
 
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Full Roblox Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and native Android",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive Roblox scripts and Models",
+        "⚡ Developing Roblox GUI's and Models",
+        "⚡ Creating decent Roblox Buildings, with decent interiors.",
       ],
       softwareSkills: [
         {
@@ -123,7 +123,7 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
+          skillName: "LUA",
           fontAwesomeClassname: "simple-icons:react",
           style: {
             color: "#61DAFB",
@@ -314,11 +314,11 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "SAL Engineering and Technical Institute",
+      title: "Computer Engineering",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "sal.png",
       alt_name: "SETI",
-      duration: "2017 - Present",
+      duration: "2021 - 2022",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
@@ -457,14 +457,14 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Full Stack Developer",
-          company: "Quicko",
+          title: "Full Roblox Developer",
+          company: "NewGames",
           company_url: "https://quicko.com/",
           logo_path: "quicko.jpg",
           duration: "June 2021 - October 2021",
           location: "Ahmedabad",
           description:
-            "Quicko is an online tax planning, preparation & filing platform for individuals & businesses.",
+            "NewGames, was an amazing expierence for me as a roblox dev and I am happy to share my expierences with you.",
           color: "#2962FF",
         },
       ],
@@ -596,9 +596,9 @@ const projects = {
   data: [
     {
       id: "50",
-      name: "Journalify",
-      url: "https://play.google.com/store/apps/details?id=com.picle.journalify",
-      description: "You personal journaling companion, goals & daily challenges!",
+      name: "ShopGUI",
+      url: "https://gyazo.com/dcfa8485852ad82cbd2d2664ec6b2927",
+      description: "Cool shop GUI for Roblox.",
       languages: [
         {
           name: "Flutter",
@@ -612,9 +612,9 @@ const projects = {
     },
     {
       id: "0",
-      name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
-      description: "(This) A clean and full customizable portfolio template.",
+      name: "Kunai Knives",
+      url: "https://media.discordapp.net/attachments/857550932069318677/890216135151214602/image1.png?width=400&height=225",
+      description: "A clean Kunai Knife model for roblox.",
       languages: [
         {
           name: "ReactJS",
@@ -624,10 +624,10 @@ const projects = {
     },
     {
       id: "1",
-      name: "Cab Security System",
-      url: " ",
+      name: "Shurikens",
+      url: "https://media.discordapp.net/attachments/857550932069318677/890216134719197224/image0.png?width=400&height=225",
       description:
-        "Driver drowsiness detection, profanity detection, violence detection, SMS alerts, cab driver tracking.",
+        "Amazing shuriken model that I made with my team, I am very proud of.",
       languages: [
         {
           name: "Python",
@@ -645,10 +645,10 @@ const projects = {
     },
     {
       id: "2",
-      name: "Lensinator",
-      url: " ",
+      name: "Lighting Effects",
+      url: "https://media.discordapp.net/attachments/857551280498147328/944973164419633212/RobloxScreenShot20220219_194742004.png?width=400&height=235",
       description:
-        "Published on Play Store back in 2017, crossed 55K downloads. Performed object detection, image captioning, OCR, handwritten OCR, barcode and QR code scanning with product information.",
+        "Awesome Effects made on accident, makes game look amazing.",
       languages: [
         {
           name: "JavaScript",
@@ -666,10 +666,10 @@ const projects = {
     },
     {
       id: "12",
-      name: "Doorbell.io",
-      url: "https://github.com/Hrishi1999/Doorbell.io",
+      name: "Character GUI",
+      url: "https://media.discordapp.net/attachments/573224472589500440/946544787648049273/unknown-44_2.png?width=215&height=300",
       description:
-        "A sound-classifier webapp made with ReactJS + TensorflowJS.",
+        "Roblox Character GUI, (Model made by Zinx) GUI by me.",
       languages: [
         {
           name: "Python",
@@ -687,10 +687,10 @@ const projects = {
     },
     {
       id: "13",
-      name: "Video Summarization (WIP)",
-      url: "https://github.com/Hrishi1999/Video-Summarization",
+      name: "Shop GUI",
+      url: "https://media.discordapp.net/attachments/573224472589500440/946544966749024316/unknown.png?width=400&height=225",
       description:
-        "A video summarization webapp. A Flask-based backend which servers the Tensorflow model and a frontend made in ReactJS.",
+        "Shop GUI took over 2 days to make, Hard work and lots of effort in creating this. It is also scripted.",
       languages: [
         {
           name: "JavaScript",
